@@ -25,7 +25,7 @@ const projects = [
     description: 'Full-stack e-commerce solution with React, Node.js, and PostgreSQL. Features include user authentication, payment integration, and admin dashboard.',
     image: IMAGES.projects[0],
     tags: ['React', 'Node.js', 'PostgreSQL', 'Stripe'],
-    github: 'https://github.com/beathkimani/ecommerce-platform',
+    github: 'https://github.com/bethkimani/ecommerce-platform',
     live: 'https://ecommerce-demo.vercel.app',
     category: 'fullstack',
   },
@@ -35,7 +35,7 @@ const projects = [
     description: 'Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
     image: IMAGES.projects[1],
     tags: ['React', 'Firebase', 'Tailwind CSS', 'Socket.io'],
-    github: 'https://github.com/beathkimani/task-manager',
+    github: 'https://github.com/bethkimani/task-manager',
     live: 'https://taskflow-app.vercel.app',
     category: 'fullstack',
   },
@@ -45,7 +45,7 @@ const projects = [
     description: 'Patient management system with appointment scheduling, medical records, and telemedicine integration.',
     image: IMAGES.projects[2],
     tags: ['Django', 'React', 'PostgreSQL', 'WebRTC'],
-    github: 'https://github.com/beathkimani/healthcare-portal',
+    github: 'https://github.com/bethkimani/healthcare-portal',
     live: 'https://healthportal-demo.vercel.app',
     category: 'fullstack',
   },
@@ -143,7 +143,7 @@ const testimonials = [
     id: 1,
     name: 'Sarah Wanjiku',
     role: 'Technical Lead at Safaricom',
-    content: 'Beath is an exceptional developer with a keen eye for detail. His ability to solve complex problems and deliver high-quality code is remarkable. A true asset to any team.',
+    content: 'Beth is an exceptional developer with a keen eye for detail. His ability to solve complex problems and deliver high-quality code is remarkable. A true asset to any team.',
     avatar: 'SW',
   },
   {
@@ -156,15 +156,15 @@ const testimonials = [
   {
     id: 3,
     name: 'Dr. Mary Njeri',
-    role: 'Professor at Wemon Kiriri University',
-    content: 'Beath was one of our most dedicated students. His passion for technology and continuous learning sets him apart. He has a bright future in the tech industry.',
+    role: 'Professor at  Kiriri Women University of Science and Technology',
+    content: 'Beth was one of our most dedicated students. His passion for technology and continuous learning sets him apart. He has a bright future in the tech industry.',
     avatar: 'MN',
   },
   {
     id: 4,
     name: 'Peter Kamau',
     role: 'Instructor at Moringa School',
-    content: 'Beath demonstrated exceptional growth during his time at Moringa. His commitment to mastering full-stack development and helping fellow students was outstanding.',
+    content: 'Beth demonstrated exceptional growth during his time at Moringa. His commitment to mastering full-stack development and helping fellow students was outstanding.',
     avatar: 'PK',
   },
 ];
@@ -1041,7 +1041,7 @@ const AppLayout: React.FC = () => {
           {/* Bottom Bar */}
           <div className="pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Beath Kimani. All rights reserved.
+              © {new Date().getFullYear()} Beth Kimani. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm">
               Built with React & Tailwind CSS
