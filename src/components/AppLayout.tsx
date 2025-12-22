@@ -859,7 +859,7 @@ const AppLayout: React.FC = () => {
                 <p className="text-gray-400 mb-4">Follow me on social media</p>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/beathkimani"
+                    href="https://github.com/bethkimani"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-gray-800 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-700 transition-all"
