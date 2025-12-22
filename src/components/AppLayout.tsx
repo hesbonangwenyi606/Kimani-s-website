@@ -982,7 +982,7 @@ const AppLayout: React.FC = () => {
             {/* Brand */}
             <div className="md:col-span-2">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent mb-4">
-                Beath Kimani
+                Beth Kimani
               </h3>
               <p className="text-gray-400 mb-4 max-w-md">
                 Full Stack Developer passionate about creating innovative web solutions. 
