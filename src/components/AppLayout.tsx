@@ -425,7 +425,7 @@ const AppLayout: React.FC = () => {
           {/* Social Links */}
           <div className="flex justify-center gap-6 mt-12">
             <a
-              href="https://github.com/beathkimani"
+              href="https://github.com/bethkimani"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-800 rounded-full hover:bg-gray-700 transition-colors hover:scale-110"
