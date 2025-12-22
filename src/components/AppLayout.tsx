@@ -521,15 +521,15 @@ const AppLayout: React.FC = () => {
               {/* Stats */}
               <div className="grid grid-cols-3 gap-6 mb-8">
                 <div className="text-center p-4 bg-gray-800 rounded-xl">
-                  <div className="text-3xl font-bold text-cyan-400">3+</div>
+                  <div className="text-3xl font-bold text-cyan-400">2+</div>
                   <div className="text-sm text-gray-400">Years Experience</div>
                 </div>
                 <div className="text-center p-4 bg-gray-800 rounded-xl">
-                  <div className="text-3xl font-bold text-purple-400">50+</div>
+                  <div className="text-3xl font-bold text-purple-400">20+</div>
                   <div className="text-sm text-gray-400">Projects Completed</div>
                 </div>
                 <div className="text-center p-4 bg-gray-800 rounded-xl">
-                  <div className="text-3xl font-bold text-blue-400">20+</div>
+                  <div className="text-3xl font-bold text-blue-400">6+</div>
                   <div className="text-sm text-gray-400">Happy Clients</div>
                 </div>
               </div>
