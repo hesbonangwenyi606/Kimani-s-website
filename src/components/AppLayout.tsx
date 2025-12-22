@@ -834,8 +834,8 @@ const AppLayout: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-400 text-sm">Phone</p>
-                    <a href="tel:+254700000000" className="text-white hover:text-cyan-400 transition-colors">
-                      +254 700 000 000
+                    <a href="tel:+254112280703" className="text-white hover:text-cyan-400 transition-colors">
+                      +254 112 280 703
                     </a>
                   </div>
                 </div>
