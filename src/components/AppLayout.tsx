@@ -485,7 +485,7 @@ const AppLayout: React.FC = () => {
               </span>
             </h2>
             <p className="text-gray-400 max-w-2xl mx-auto">
-              A passionate developer dedicated to creating impactful digital solutions
+              I am a passionate Full Stack Developer with a strong foundation in building scalable and efficient web applications. As a graduate of Moringa School and Kiriri Women’s University, I specialize in React, Node.js, Python, and cloud technologies. I am committed to crafting seamless user experiences and delivering innovative solutions that solve real-world problems. I thrive in collaborative environments and continuously seek opportunities to learn and grow as a developer.
             </p>
           </div>
 
@@ -495,7 +495,7 @@ const AppLayout: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-2xl blur-xl opacity-20" />
               <img
                 src={IMAGES.profile}
-                alt="Beath Kimani"
+                alt="Beth Kimani"
                 className="relative rounded-2xl w-full max-w-md mx-auto object-cover shadow-2xl"
               />
             </div>
@@ -506,7 +506,7 @@ const AppLayout: React.FC = () => {
                 Building the Future, One Line of Code at a Time
               </h3>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                I'm Beath Kimani, a Full Stack Developer with a strong foundation in both theoretical 
+                I'm Beth Kimani, a Full Stack Developer with a strong foundation in both theoretical 
                 knowledge and practical application. My journey in tech began at Wemon Kiriri University, 
                 where I earned my Bachelor's degree in Information Technology, gaining comprehensive 
                 knowledge in software development, networking, and system administration.
