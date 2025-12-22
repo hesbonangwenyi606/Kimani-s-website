@@ -730,7 +730,7 @@ const AppLayout: React.FC = () => {
           {/* View More */}
           <div className="text-center mt-12">
             <a
-              href="https://github.com/beathkimani"
+              href="https://github.com/bethkimani"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 border border-cyan-500 text-cyan-400 rounded-lg hover:bg-cyan-500 hover:text-white transition-all"
