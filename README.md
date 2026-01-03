@@ -1,2 +1,1 @@
-# React + TypeScript + Vit
-This  
+# React + TypeScript
