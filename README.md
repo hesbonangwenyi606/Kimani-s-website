@@ -1,2 +1,2 @@
 # React + TypeScript + Vit
-This template 
+This  
