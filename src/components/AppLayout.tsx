@@ -375,7 +375,7 @@ const AppLayout: React.FC = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4">
             <span className="text-white">Hi, I'm </span>
             <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-              Beath Kimani
+              Beth Kimani
             </span>
           </h1>
 
