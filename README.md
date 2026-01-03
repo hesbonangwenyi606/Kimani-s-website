@@ -1,2 +1,2 @@
 # React + TypeScript + Vit
-This template provides a minimal setup to get React 
+This template provides a minimal setup to 
